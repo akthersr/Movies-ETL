@@ -15,8 +15,12 @@ Softwares:Python 3.9.7, Jupyter Notebook 6.4.5
 ## Analysis
 
 This analysis consists of four steps:
+
 -Create an ETL Function to Read Three Data Files
+
 -Extract and Transform the Wikipedia Data
+
 -Extract and Transform the Kaggle data
+
 -Create the Movie Database
 
